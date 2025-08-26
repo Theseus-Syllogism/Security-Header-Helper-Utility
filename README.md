@@ -9,3 +9,15 @@ A simple bash script with multi-distribution support designed to aid in securing
 -f injects into a named configuration file (work in progress)
 ```
 
+# Current Options
+![Imgur Image](https://i.imgur.com/WxL4q3C.png)
+
+## --url CSP Header Generator / JS Library Parser Option
+![Imgur Image](https://i.imgur.com/sS4dv7m.png)
+！ Vulnerabilities are currently not parsed and outputted in this version of the script.
+
+![Imgur Image](https://i.imgur.com/QxiKKqB.png)
+## -u Content-Security-Policy Header Check Option
+![Imgur Image](https://i.imgur.com/uERXM3g.png)
+## -m Make Header Option
+![Imgur Image](https://i.imgur.com/dOXnXIU.png)
